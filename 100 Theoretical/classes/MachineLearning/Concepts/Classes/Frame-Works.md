@@ -98,7 +98,7 @@ Price = 40,000 + 180_1,000 + 10,000_3 - 1,500*10
 ---
 
 ##  **Polynomial Regression**
-`collapsed:: true`
+
 - Like linear regression, but fits a curved line by including higher powers of the independent variable.
 - **Simple linear regression:**
   ```
@@ -114,7 +114,7 @@ Predicting car price based on age, where price drops quickly at first and then l
 ---
 
 ## **Support Vector Regression (SVR)**
-`collapsed:: true`
+
 - SVR predicts continuous values (e.g., temperature, prices) by creating an **epsilon-insensitive tube** around the regression line.
 - **Epsilon (ε) Tube:** Margin around the regression line where errors are tolerated.
 - **Support Vectors:** Points outside the tube that influence the model.
@@ -126,7 +126,7 @@ Predicting house price: SVR creates a tube around the predicted price line. Most
 ---
 
 ## **Decision Tree Regression**
-`collapsed:: true`
+
 - Decision Tree Regression predicts continuous values by splitting data into subsets based on feature values, forming a tree structure.
 - **Decision nodes:** Where splits occur
 - **Leaf nodes:** Final predicted values
