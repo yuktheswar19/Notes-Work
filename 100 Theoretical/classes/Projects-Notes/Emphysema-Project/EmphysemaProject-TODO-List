@@ -1,0 +1,49 @@
+completed                           
+
+1 ) Removed null values 
+2 ) cleaned the data
+3 ) FInd correlations 
+4 ) Then Feature Engineering 
+5 ) Factor the categorical values
+6 ) find Relations based on the features available 
+7 ) Plot the features 
+
+
+
+TO DO 
+
+1 )  Have to make desicion on which model to use for training 
+2 )  Need to study the model of why and on how to apply to the project 
+
+
+
+
+AgeQuartiles have range of ages 
+    Lung efficiency index breathing capacity 
+        COPDSEVERITY
+
+
+
+Here are all the features from your dataset explained in simple terms, each in one line:
+
+- **AGE:** Age of the patient in years.
+- **PackHistory:** Total number of cigarette packs smoked per year.
+- **MWT1Best:** Best distance (in meters) walked during the 6-minute walk test.
+- **FEV1:** Volume of air exhaled in the first second of a forced breath (liters).
+- **FVC:** Total volume of air exhaled during a forced breath (liters).
+- **CAT:** COPD Assessment Test score, measuring impact of COPD on health.
+- **HAD:** Hospital Anxiety and Depression score.
+- **SGRQ:** St. George’s Respiratory Questionnaire score, measuring health status and quality of life in respiratory disease.
+- **AGEquartiles:** Age group of the patient divided into quartiles (1 to 4).
+- **gender:** Gender of the patient (0 = female, 1 = male).
+- **smoking:** Smoking status (0 = never, 1 = current, 2 = former smoker).
+- **Diabetes:** Whether the patient has diabetes (1 = yes, 0 = no).
+- **muscular:** Whether the patient has muscular disease (1 = yes, 0 = no).
+- **hypertension:** Whether the patient has high blood pressure (1 = yes, 0 = no).
+- **AtrialFib:** Whether the patient has atrial fibrillation (1 = yes, 0 = no).
+- **IHD:** Whether the patient has ischemic heart disease (1 = yes, 0 = no).
+- **COPDSEVERITY:** Severity of COPD (MILD, MODERATE, SEVERE, VERY SEVERE).
+- **FEV1_FVC_Ratio:** Ratio of FEV1 to FVC, a key lung function indicator.
+- **Lung_Efficiency_Index:** Calculated index representing lung efficiency.
+
+
