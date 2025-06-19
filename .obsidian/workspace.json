@@ -178,8 +178,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04dc442ef3f1f8b7",
+  "active": "8579bccdc7964ba3",
   "lastOpenFiles": [
+    "400 Project-Related/Projects-Notes/TB Project/Project Work Flow Reference.md",
+    "400 Project-Related/Projects-Notes/TB Project/Coding terms to understand.md",
+    "400 Project-Related/Projects-Notes/Emphysema-Project/EmphysemaProject-TODO-List",
+    "400 Project-Related/Projects-Notes/Emphysema-Project/Emphysema.md",
+    "400 Project-Related/Projects-Notes/Emphysema-Project/Data Exploration.md",
+    "400 Project-Related/Projects-Notes/R  Project/Hotel Bookings Project.md",
+    "400 Project-Related/Projects-Notes/TB Project",
+    "400 Project-Related/Projects-Notes/Emphysema-Project",
+    "400 Project-Related/Projects-Notes/R  Project",
+    "400 Project-Related/Projects-Notes",
     "100 Theoretical/classes/Projects-Notes/TB Project/Project Work Flow Reference.md",
     "100 Theoretical/classes/Projects-Notes/TB Project/Coding terms to understand.md",
     "100 Theoretical/classes/Projects-Notes/R  Project/Hotel Bookings Project.md",
@@ -214,11 +224,6 @@
     "100 Theoretical/classes/MachineLearning/ml-code/attachments/image_1748084761012_0.png",
     "100 Theoretical/classes/MachineLearning/ml-code/attachments",
     "100 Theoretical/classes/MachineLearning/ml-code/Regression-Code-Snippets.md",
-    "100 Theoretical/classes/MachineLearning/ml-code/Preprocessing-Tools.md",
-    "100 Theoretical/classes/MachineLearning/ml-code/Preprocessing.md",
-    "100 Theoretical/classes/MachineLearning/ml-code/contents.md",
-    "100 Theoretical/classes/MachineLearning/ml-code/Classification-Code-Snippets.md",
-    "100 Theoretical/classes/MachineLearning/Concepts/attachments",
-    "200 Programming/Classes"
+    "100 Theoretical/classes/MachineLearning/Concepts/attachments"
   ]
 }
