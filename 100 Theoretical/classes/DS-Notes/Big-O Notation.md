@@ -134,5 +134,3 @@ while l <= r:
         break
 ```
 
-
-Ig it worked ?
