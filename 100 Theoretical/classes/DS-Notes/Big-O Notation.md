@@ -6,7 +6,6 @@
 
 ## Key Concepts
 - **O(1)**: Constant time (runtime independent of input size)  
-		yes
 
 ## Common Complexity Causes
 | Operation Type       | Examples                     |
