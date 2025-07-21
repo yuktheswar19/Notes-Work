@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "300 Courses/Classes/DataCourse/cheatsheet.pdf"
+                "file": "300 Courses/Classes/DataCourse/BigO-cheat-sheet+(1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "cheatsheet"
+              "title": "BigO-cheat-sheet+(1)"
             }
           }
         ]
@@ -178,9 +178,9 @@
   },
   "active": "04dc442ef3f1f8b7",
   "lastOpenFiles": [
+    "300 Courses/Classes/DataCourse/cheatsheet.pdf",
     "300 Courses/Classes/DataCourse/Big-O Notation.md",
     "300 Courses/Classes/DataCourse/BigO-cheat-sheet+(1).pdf",
-    "300 Courses/Classes/DataCourse/cheatsheet.pdf",
     "300 Courses/Classes/MachineLearning/Concepts/attachments/image_1748597539612_0.png",
     "300 Courses/Classes/MachineLearning/Concepts/attachments/image_1748596871327_0.png",
     "300 Courses/Classes/DataCourse/cheatsheet 1.pdf",
