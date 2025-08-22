@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
+                "file": "200 Programming/ml-code/Classes/Preprocessing-Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frame-Works"
-            }
-          },
-          {
-            "id": "aff75f452d782ec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "Preprocessing-Tools"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "encode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,8 +183,9 @@
   },
   "active": "04dc442ef3f1f8b7",
   "lastOpenFiles": [
-    "100 Theoretical&Courses/classes/MachineLearning/Concepts/Classification.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
+    "200 Programming/ml-code/Classes/Preprocessing-Tools.md",
+    "100 Theoretical&Courses/classes/MachineLearning/Concepts/Classification.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Evaluation Metrics.md",
     "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Preprocessing.md",
@@ -210,7 +198,6 @@
     "Pasted image 20250821104444.png",
     "200 Programming/ml-code/Classes/Classification-Code-Snippets.md",
     "200 Programming/ml-code/Classes/Regression-Code-Snippets.md",
-    "200 Programming/ml-code/Classes/Preprocessing-Tools.md",
     "100 Theoretical&Courses/classes/New.md",
     "300 Courses/Classes/MachineLearning/Concepts/attachments/image_1748597539612_0.png",
     "300 Courses/Classes/MachineLearning/Concepts/attachments/image_1748596871327_0.png",
