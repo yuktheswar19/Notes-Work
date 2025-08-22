@@ -35,8 +35,7 @@
               "title": "Arrays"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.00043487548828,
-    "collapsed": true
+    "width": 236.00043487548828
   },
   "right": {
     "id": "32415523f0b1e640",
@@ -195,14 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aff75f452d782ec1",
+  "active": "04dc442ef3f1f8b7",
   "lastOpenFiles": [
+    "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
+    "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
     "100 Theoretical&Courses/classes/DataCourse/Big-O Notation.md",
     "100 Theoretical&Courses/classes/DataCourse/cheatsheet.pdf",
     "100 Theoretical&Courses/classes/DataCourse/BigO-cheat-sheet+(1).pdf",
     "Pasted image 20250821104444.png",
-    "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
-    "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Evaluation Metrics.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Preprocessing.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Classification.md",
