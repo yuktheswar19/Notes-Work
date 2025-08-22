@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
+                "file": "500 Work-Related/Pellet Detection Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frame-Works"
+              "title": "Pellet Detection Logic"
             }
           },
           {
@@ -195,8 +195,10 @@
   },
   "active": "04dc442ef3f1f8b7",
   "lastOpenFiles": [
-    "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
+    "500 Work-Related/Pellet Detection Logic.md",
+    "500 Work-Related",
+    "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
     "100 Theoretical&Courses/classes/DataCourse/Big-O Notation.md",
     "100 Theoretical&Courses/classes/DataCourse/cheatsheet.pdf",
     "100 Theoretical&Courses/classes/DataCourse/BigO-cheat-sheet+(1).pdf",
@@ -236,7 +238,6 @@
     "100 Theoretical/classes/Projects-Notes/Emphysema-Project/Data Exploration.md",
     "100 Theoretical/classes/MachineLearning/ml-code/Classes/contents.md",
     "200 Programming/ml-code/Classes",
-    "300 Courses/Classes/MachineLearning/Concepts/Classes",
     "100 Theoretical/classes/MachineLearning/Concepts/contents.md",
     "100 Theoretical/classes/DS-Notes/contents.md"
   ]
