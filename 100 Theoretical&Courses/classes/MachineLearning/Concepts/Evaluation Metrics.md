@@ -51,3 +51,13 @@ Where:
 
 > Use Adjusted R² when working with multiple regression models!
 
+---
+
+## **Confusion Matrix** 
+
+A table that shows how well a classification model performs by comparing predicted labels to actual labels. It helps evaluate the model's accuracy, precision, recall, etc.
+
+**Simple Example**: For a binary classifier predicting "Pass" (1) or "Fail" (0):
+
+
+
