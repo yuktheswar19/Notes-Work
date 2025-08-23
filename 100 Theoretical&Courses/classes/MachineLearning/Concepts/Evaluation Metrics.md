@@ -55,9 +55,22 @@ Where:
 
 ## **Confusion Matrix** 
 
+The confusion matrix will show exactly number of correct predictions and number of incorrect predictions from after the training 
+
 A table that shows how well a classification model performs by comparing predicted labels to actual labels. It helps evaluate the model's accuracy, precision, recall, etc.
 
 **Simple Example**: For a binary classifier predicting "Pass" (1) or "Fail" (0):
 
+|                | Predicted Pass | Predicted Fail |
+|----------------|----------------|----------------|
+| **Actual Pass** |       50       |       10       |
+| **Actual Fail** |       5        |       35       |
 
+- **Rows**: Actual labels (Pass, Fail).
+- **Columns**: Predicted labels (Pass, Fail).
+- **Values**:
+    - 50: True Positives (correctly predicted Pass).
+    - 10: False Negatives (actual Pass, predicted Fail).
+    - 5: False Positives (actual Fail, predicted Pass).
+    - 35: True Negatives (correctly predicted Fail)
 
