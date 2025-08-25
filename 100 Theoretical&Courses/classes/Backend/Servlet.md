@@ -1,0 +1,3 @@
+- It is mostly used for Dynamic web pages which requires WEB server 
+- Tomcat is a web container which is used for the communication of Servlet 
+- 
