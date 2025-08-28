@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Work-Related/Diagopreutic/Pellet Detection Logic.md",
+                "file": "200 Programming/ml-code/Classes/Regression-Code-Snippets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pellet Detection Logic"
+              "title": "Regression-Code-Snippets"
             }
           }
         ]
@@ -181,6 +181,9 @@
   },
   "active": "b1d3d5f818e70154",
   "lastOpenFiles": [
+    "200 Programming/ml-code/Classes/Preprocessing-Tools.md",
+    "200 Programming/ml-code/Classes/Classification-Code-Snippets.md",
+    "500 Work-Related/Diagopreutic/Pellet Detection Logic.md",
     "500 Work-Related/Diagopreutic/Config Logic.md",
     "Untitled 3.base",
     "Untitled 2.base",
@@ -198,13 +201,10 @@
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Evaluation Metrics.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Classification.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
-    "200 Programming/ml-code/Classes/Preprocessing-Tools.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Preprocessing.md",
-    "500 Work-Related/Diagopreutic/Pellet Detection Logic.md",
     "500 Work-Related",
     "100 Theoretical&Courses/classes/DataCourse/Big-O Notation.md",
     "Pasted image 20250821104444.png",
-    "200 Programming/ml-code/Classes/Classification-Code-Snippets.md",
     "200 Programming/ml-code/Classes/Regression-Code-Snippets.md",
     "100 Theoretical&Courses/classes/New.md",
     "300 Courses/Classes/MachineLearning/Concepts/attachments/image_1748597539612_0.png",
