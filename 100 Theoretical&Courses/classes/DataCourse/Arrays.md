@@ -50,3 +50,19 @@ print(my_array.shift())
 print(my_array.array[-1])  
 ```
 
+
+
+## Array Methods:,
+
+1) **append()** : add element at the last
+2) **extend()** : combine another list at the end
+3) **insert()** : insert an element at an index
+4) **remove()** : remove an element from the list
+5) **pop()** : remove and return the last element
+6) **clear()** : remove all elements from the list
+7) **index()** : returns the index of the first matched element
+8) **count()** : count the number of occurrences of an element
+9) **sort()** : sort the array (asc by default)
+10) **reverse()** : reverse the order of the list
+11) **copy()** : return a copy of the elements
+
