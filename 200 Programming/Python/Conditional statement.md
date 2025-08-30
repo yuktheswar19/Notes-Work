@@ -69,3 +69,24 @@ else:
 
 **Any year which is divided by 4  is a leap year**
 
+```python
+
+def leapyear(number):
+
+	if number % 4 == 0 :
+		if number % 100 == 0 :
+			if number % 400 == 0 :
+				print(f"{number} is a leap year")
+			else:
+				print(f"{number} is not a leap year")
+		else:
+			print(f"{number} is a leap year")
+	else:
+		print(f"{number} is not a leap year")
+		
+
+number = leapyear(int(input("Enter your number")))
+
+```
+
+
