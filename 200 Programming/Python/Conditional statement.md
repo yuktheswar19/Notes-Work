@@ -43,3 +43,29 @@ else :
 
 You can place one or more if , elif statement inside another if , elif  or else statement to create a nested if 
 
+```python
+
+num = int(input("Enter your number: "))
+
+if num > 0 :
+	print("The number is negative")
+
+	if num%2 == 0:
+		print("The number is even")
+	else:
+		print("The number is odd")
+
+else:
+	print("The number is zero or negative")
+```
+
+
+
+### Note : The indentation is important for nested if blocks or else there will be an error 
+# Practical Examples 
+
+
+## Leap Year 
+
+**Any year which is divided by 4  is a leap year**
+
