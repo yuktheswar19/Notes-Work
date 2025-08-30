@@ -23,3 +23,23 @@ else:
 
 ## elif statement
 
+elif statement will help you to check multiple logic statements . It stands for "else if"
+
+```python
+
+age = 18
+
+if age > 18:
+	print("you are an adult")
+
+elif age == 18:
+	print("barely an adult")
+
+else :
+	print("you are still a minor")
+```
+
+## Nested Conditional Statements 
+
+You can place one or more if , elif statement inside another if , elif  or else statement to create a nested if 
+
