@@ -68,6 +68,9 @@ else:
 ## Leap Year 
 
 **Any year which is divided by 4  is a leap year**
+It should be divided  % 4 ==  leap year
+divided / 100 != leap year
+divided / 400 == leap year
 
 ```python
 
@@ -80,7 +83,7 @@ def leapyear(number):
 			else:
 				print(f"{number} is not a leap year")
 		else:
-			print(f"{number} is a leap year")
+			print(f"{number} is not a leap year")
 	else:
 		print(f"{number} is not a leap year")
 		
@@ -90,4 +93,29 @@ number = leapyear(int(input("Enter your number")))
 ```
 
 
-Calculator 
+# Calculator 
+
+```python
+
+def calculator(operator, number1 , number2):
+	if operator == "+":
+		print(number1 + number2)
+	elif operator == "-":
+		print(number1 - number2)
+	elif operator == "*":
+		print(number1 * number2)
+	elif operator == "/":
+		if number2 != 0:
+			print(number1 / number2)
+		else:
+			print(f"cannot divide by the {number2}")
+	else:
+		print("invalid symbol")
+
+
+number1 = float(input("Enter your number: "))
+number2 = float(input("Enter your number: "))
+operator = input("Enter your operator (+, -, * , / ) :")
+calculator(operator,number1,number2)
+
+```
