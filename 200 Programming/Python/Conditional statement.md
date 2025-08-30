@@ -124,3 +124,42 @@ calculator(operator,number1,number2)
 # Ticket Price
 
 Ticket price based on the age 
+
+```python
+
+class TicketSystem:
+
+	def __init__(self):
+
+		self.age = int(input("Enter your age: "))
+		self.school = input('Are you in school? (y/n):').lower().startswith('y')
+		self.university = input('Are you in university ?(y/n):').lower().startswith('y')
+
+	def system(self):
+		if self.age <= 5:
+		print(f"Ticket is free for the age: {self.age}")
+		elif self.age <= 17:
+			if self.school == ("yes").startswith('y'):
+				print(f"You get student offer for your age: {self.age}" , "The price is 5 dollors")
+			else:
+				print("The price is 10 dollors")
+				
+				
+		elif self.age >= 18:
+			if self.university == ("yes").startswith('y'):
+				print("student offer applicable" , f"For age:{self.age} price is 15 dollors")
+			else:
+			print("The fare is 25 dollors")
+			
+		elif self.age <= 0 | -1 :
+			if self.age > 100 :
+				print("Enter a valid age for Ticket price" + f"{self.age} is not valid age")
+			else:
+				print("Enter a valid age for Ticket price" + f"{self.age} is not valid age")
+
+ticket = TicketSystem()
+
+ticket.system()
+
+
+```
