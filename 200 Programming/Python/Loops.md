@@ -56,8 +56,27 @@ while loop will continue to execute as long as its true
 count = 0
 
 while count < 5 :
-	print(count + 1)
+	print(count + 1, end=',')
 count += 1
 ```
 
-outout
+output:
+```
+1,2,3,4,5,
+```
+
+
+## Loop control statements
+
+### Break
+- The break statement exits the loop prematurely 
+
+```python
+for i in range(10):
+	if i == 5:
+		break
+	print(i)
+```
+
+### Continue 
+- The continue statements skips the current iteration and continues with the next 
