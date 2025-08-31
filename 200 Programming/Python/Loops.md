@@ -130,3 +130,22 @@ for i in range(3):
 
 
 
+## Problems 
+
+### Printing the sum of n natural numbers using while and for 
+
+- **While** :
+	```python
+	
+	def whilenatural(n):
+
+		count = 1
+		sum = 0
+		
+		while count <=n:
+			sum +=count
+			count +=1
+		print(sum)
+	whilenatural(10)
+	```
+
