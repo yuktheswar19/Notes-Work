@@ -149,3 +149,22 @@ for i in range(3):
 	whilenatural(10)
 	```
 
+- **For**:
+	```python
+	def natural(n):
+		sum = 0
+		for i in range(1,n+1,1):
+			sum += i
+			print(sum)
+	natural(10)
+	```
+
+
+**Note :** The **sum** variable is very important in both the while loop and for loop programs because it **stores the total accumulated value** as numbers are added together.
+
+- **Stores the running total:** The sum variable keeps track of all the values added so far. Without it, the program wouldn't be able to remember the total as it loops through each number.
+- **Updated in each iteration:** During every step (iteration) of the loop, the current number is added to the sum. This way, the sum gradually increases until the loop ends.
+- **Final result:** After the loop finishes, the sum contains the sum of all numbers from 1 to n, which is what we want to calculate.
+- **Essential for accumulation tasks:** Whenever you want to add or accumulate values in a loop, you must have a variable like sum to collect that running total.
+
+
