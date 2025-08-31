@@ -155,7 +155,7 @@ for i in range(3):
 		sum = 0
 		for i in range(1,n+1,1):
 			sum += i
-			print(sum)
+		print(sum)
 	natural(10)
 	```
 
@@ -167,4 +167,10 @@ for i in range(3):
 - **Final result:** After the loop finishes, the sum contains the sum of all numbers from 1 to n, which is what we want to calculate.
 - **Essential for accumulation tasks:** Whenever you want to add or accumulate values in a loop, you must have a variable like sum to collect that running total.
 
+
+
+### Prime Numbers
+- The prime numbers are divisible by 1 and itself
+
+display the prime numbers between 1 and 100 
 
