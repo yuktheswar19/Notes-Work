@@ -119,3 +119,14 @@ The number is 3
 
 ## Nested Loops 
 - A loop inside a loop 
+
+A **nested loop** is a loop inside another loop. The **outer loop** runs once, and for each time it runs, the **inner loop** runs completely through all its values. This means the inner loop repeats fully for every single iteration of the outer loop.
+
+```python
+for i in range(3):
+	for j in range(2):
+		print(f"i:{i} and j:{j}")
+```
+
+
+
