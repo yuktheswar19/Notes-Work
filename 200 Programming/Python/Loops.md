@@ -106,4 +106,13 @@ for i in range(5):
 	print(i)
 ```
 
-output
+output:
+```python
+0 
+1 
+2 
+The number is 3 
+3 
+4
+```
+
