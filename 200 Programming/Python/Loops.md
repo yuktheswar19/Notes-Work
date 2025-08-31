@@ -80,3 +80,30 @@ for i in range(10):
 
 ### Continue 
 - The continue statements skips the current iteration and continues with the next 
+
+```python
+for i in range(10):
+	if i%2 == 0:
+		continue
+	print(i,end='|')
+```
+
+output:
+```python
+1|3|5|7|9|
+```
+
+
+### Pass
+- The pass statement is null operation and its nothing 
+
+
+```python
+for i in range(5):
+	if i == 3:
+		print('The number is ',i)
+		pass
+	print(i)
+```
+
+output
