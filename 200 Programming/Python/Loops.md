@@ -1,17 +1,19 @@
 A for loop lets you **do something multiple times, once for each element in a sequence**
 
+## For Loop
 
 ```python
 for i in range(5):
 	print(i)
-	
 ```
+
 
 The **start, stop, and step** concepts are used to control how a sequence is generated, especially in functions like Python's
 
 - **Start**: The value where the sequence begins (inclusive). The first number in the sequence.
 - **Stop**: The value where the sequence ends (exclusive). The sequence goes up to but does not include this number.
 - **Step**: How much the sequence increments (or decrements) each time. It is the gap between consecutive numbers.
+
 
 ```python
 for i in range(1, 10, 2):
@@ -28,3 +30,34 @@ output:
 1, 3, 5, 7, 9
 ```
 
+
+**for loop can also be used to iterate over collection of characters which is a string**
+
+```python
+str = "yuktheswar"
+
+for i in str:
+	print(i,end=' ,')
+```
+
+output:
+```python
+y ,u ,k ,t ,h ,e ,s ,w ,a ,r ,
+```
+
+
+## While Loop
+
+while loop will continue to execute as long as its true 
+
+- A temporary variable like **count** is used in a while loop to **keep track of how many times the loop has run** or to control the loop condition.
+
+```python
+count = 0
+
+while count < 5 :
+	print(count + 1)
+count += 1
+```
+
+outout
