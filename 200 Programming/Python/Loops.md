@@ -118,3 +118,4 @@ The number is 3
 
 
 ## Nested Loops 
+- A loop inside a loop 
