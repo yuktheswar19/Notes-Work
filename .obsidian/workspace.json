@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Programming/Python/Conditional statement.md",
+                "file": "200 Programming/Python/Loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional statement"
+              "title": "Loops"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "b1d3d5f818e70154",
   "lastOpenFiles": [
-    "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
     "200 Programming/Python/Conditional statement.md",
+    "200 Programming/Python/Loops.md",
+    "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
     "200 Programming/Python",
     "100 Theoretical&Courses/classes/DataCourse/BigO-cheat-sheet+(1).pdf",
     "100 Theoretical&Courses/classes/DataCourse/cheatsheet.pdf",
@@ -226,7 +227,6 @@
     "400 Project-Related/Projects-Notes/R  Project/Hotel Bookings Project.md",
     "100 Theoretical/classes/Projects-Notes/TB Project/Project Work Flow Reference.md",
     "100 Theoretical/classes/Projects-Notes/TB Project/Coding terms to understand.md",
-    "100 Theoretical/classes/Projects-Notes/R  Project/Hotel Bookings Project.md",
-    "100 Theoretical/classes/Projects-Notes/Emphysema-Project/Emphysema.md"
+    "100 Theoretical/classes/Projects-Notes/R  Project/Hotel Bookings Project.md"
   ]
 }
