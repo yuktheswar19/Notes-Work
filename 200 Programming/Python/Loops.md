@@ -174,3 +174,15 @@ for i in range(3):
 
 display the prime numbers between 1 and 100 
 
+```python
+def primenumbers(n):
+	for num in range(1,n+1,1):
+		if num > 1:
+			for j in range (2,num):
+				if num % j == 0:
+					break
+				else:
+					print(num)
+
+primenumbers(100)
+```
