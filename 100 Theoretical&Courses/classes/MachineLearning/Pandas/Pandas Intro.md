@@ -7,6 +7,20 @@ The `.loc` attribute in pandas is used to access a group of rows and columns in 
 
 For example, **`df.loc['row_label', 'column_label']`** accesses the cell at the intersection of a row and column label
 
+### **Note :**  In pandas `.loc`, slices like `"Monday":"Wednesday"` represent a continuous range of labels and should be passed directly without outer brackets, because wrapping them in brackets turns the slice into a list, which is invalid syntax
+
+
+## iloc
+
+- The `.iloc` attribute in pandas is used for **integer-based positional indexing**. It selects rows and columns by their integer position (starting from 0) rather than by label.
+
+- While `.loc` uses row/column labels (names) to access data, `.iloc` uses numerical index positions, similar to standard Python list indexing
+
+	- For example:
+		- `df.iloc` selects the first row (regardless of its label).
+		- `df.iloc[0:3, 1:4]` selects rows 0 to 2 and columns 1 to 3 by position.
+
+Use `.iloc` when you want to access data by its position in the Data Frame rather than its label.
 
 ## Importance of `[[]]`
 
