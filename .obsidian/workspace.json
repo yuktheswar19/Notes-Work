@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.00043487548828,
-    "collapsed": true
+    "width": 236.00043487548828
   },
   "right": {
     "id": "32415523f0b1e640",
@@ -180,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1d3d5f818e70154",
+  "active": "8579bccdc7964ba3",
   "lastOpenFiles": [
+    "200 Programming/ml-code/Pandas",
     "200 Programming/Python/Loops.md",
     "400 Project-Related/R-Project/R plots/repeated_guest_by_market_segment.png",
     "400 Project-Related/R-Project/R plots/repeated_guest_by_customer_type.png",
