@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Theoretical&Courses/classes/MachineLearning/Pandas/Pandas Intro.md",
+                "file": "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandas Intro"
+              "title": "Frame-Works"
             }
           }
         ]
@@ -179,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8579bccdc7964ba3",
+  "active": "b1d3d5f818e70154",
   "lastOpenFiles": [
-    "200 Programming/Python/Conditional statement.md",
+    "100 Theoretical&Courses/classes/MachineLearning/Concepts/Evaluation Metrics.md",
     "100 Theoretical&Courses/classes/MachineLearning/Pandas/Pandas Intro.md",
+    "200 Programming/Python/Conditional statement.md",
     "100 Theoretical&Courses/classes/MachineLearning/Pandas",
     "200 Programming/Python/Loops.md",
     "400 Project-Related/R-Project/R plots/repeated_guest_by_market_segment.png",
@@ -212,7 +213,6 @@
     "100 Theoretical&Courses/classes/Backend/Servlet.md",
     "500 Work-Related/Samakalan/Task/Tom cat setup.md",
     "500 Work-Related/Samakalan/Task/Project-Setup.md",
-    "100 Theoretical&Courses/classes/MachineLearning/Concepts/Evaluation Metrics.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Classification.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Preprocessing.md",
