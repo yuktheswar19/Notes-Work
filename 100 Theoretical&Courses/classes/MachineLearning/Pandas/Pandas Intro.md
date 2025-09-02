@@ -27,3 +27,25 @@ Use `.iloc` when you want to access data by its position in the Data Frame rathe
 Using double square brackets `[[ ]]` in pandas is necessary when selecting multiple columns because it passes a **list** of column names as a single argument to pandas. This ensures the result is a DataFrame (2-dimensional), preserving the tabular structure. In contrast, single brackets with one column name return a Series (1-dimensional).
 
 
+## Regular Expressions 
+
+Regular expressions (regex) in Python are special patterns used to match and manipulate text. They allow you to search for specific sequences, validate formats, or extract parts of strings based on defined rules.
+
+**Regular expressions are sequences of characters that define search patterns for matching and manipulating text in Python**
+
+```python
+import re
+
+text = "My email is example@test.com"
+pattern = r'\S+@\S+\.\S+'  # pattern to match an email-like string
+
+match = re.search(pattern, text)
+if match:
+    print("Found:", match.group())
+# Output: Found: example@test.com
+```
+
+
+
+
+
