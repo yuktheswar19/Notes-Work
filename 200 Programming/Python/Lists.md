@@ -60,3 +60,11 @@ print(fruits)
 
 fruits.remove('banana') ----- **We are basically removing the first occurrence of an item** 
 
+## Index 
+The `index()` method in Python returns the position of the first occurrence of a specified element in a list.
+
+```python
+index = fruits.index("cherry")
+print(index)
+```
+
