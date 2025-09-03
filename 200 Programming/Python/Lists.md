@@ -7,3 +7,4 @@ print(type(list))
 
 Lists are always mentioned in [ ]
 
+

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Programming/Python/Lists.md",
+                "file": "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lists"
+              "title": "Arrays"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "b1d3d5f818e70154",
   "lastOpenFiles": [
-    "200 Programming/numpy/numpy_code.md",
     "200 Programming/Python/Lists.md",
+    "200 Programming/numpy/numpy_code.md",
     "100 Theoretical&Courses/classes/MachineLearning/numpy/Introduction.md",
     "200 Programming/numpy/numpy_indexing.md",
     "200 Programming/Python/Loops.md",
