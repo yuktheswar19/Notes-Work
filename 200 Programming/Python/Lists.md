@@ -27,4 +27,36 @@ fruits.append('cherry')
 print(fruits)  # Output: ['apple', 'banana', 'cherry']
 ```
 
+## Insert 
+The insert() method in Python **inserts a specified element at a specific position** in a list. It shifts the existing elements to the right to make space for the new element.
+
+The insert() method adds an element at the given index in the list.
+
+```python
+list.insert(index, element)
+```
+
+- _index_: Position where the element will be inserted.
+- _element_: The item to be inserted.
+
+```python
+fruits = ['apple', 'banana', 'cherry']
+fruits.insert(1, 'orange')  # Inserts 'orange' at index 1
+print(fruits)
+```
+
+
+## Remove
+The remove() method deletes an element by its value from the list.
+```python
+list.remove(element)
+```
+
+```python
+fruits = ['apple', 'banana', 'cherry', 'banana']
+fruits.remove('banana')  # Removes the first 'banana' found in the list
+print(fruits)
+```
+
+fruits.remove('banana') ----- **We are basically removing the first occurrence of an item** 
 
