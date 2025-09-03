@@ -68,3 +68,10 @@ index = fruits.index("cherry")
 print(index)
 ```
 
+
+## Count
+The count basically counts the number of elements in the list or specifically if you want a number of items repeated in the list , you can use count 
+
+## Sort
+Sort will basically sort the elements within a list , numbers will be numbered according to ascending and strings will be sorted according to the alphabet 
+
