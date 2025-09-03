@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
+                "file": "200 Programming/Python/Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "Lists"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "b1d3d5f818e70154",
   "lastOpenFiles": [
+    "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
     "200 Programming/Python/Lists.md",
     "200 Programming/numpy/numpy_code.md",
     "100 Theoretical&Courses/classes/MachineLearning/numpy/Introduction.md",
@@ -208,7 +209,6 @@
     "200 Programming/Python/1.1-Variables 2.ipynb",
     "200 Programming/Python/1.1-Variables 1.ipynb",
     "200 Programming/Python/1.1-Variables.ipynb",
-    "100 Theoretical&Courses/classes/DataCourse/Arrays.md",
     "200 Programming/Python",
     "100 Theoretical&Courses/classes/DataCourse/BigO-cheat-sheet+(1).pdf",
     "100 Theoretical&Courses/classes/DataCourse/cheatsheet.pdf",

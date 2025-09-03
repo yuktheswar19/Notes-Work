@@ -7,4 +7,15 @@ print(type(list))
 
 Lists are always mentioned in [ ]
 
+## Indexing
+To access elements in a list, use the index number of the element inside square brackets []. The index starts at 0 for the first element. For example:
+
+```python
+mylist = ["apple", "banana", "cherry"]
+print(mylist[0])  # Output: apple - first element
+print(mylist[1])  # Output: banana - second element
+print(mylist[-1]) # Output: cherry - last element (negative index)
+```
+
+
 
