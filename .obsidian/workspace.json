@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Theoretical&Courses/classes/MachineLearning/Pandas/Pandas Intro.md",
+                "file": "100 Theoretical&Courses/classes/MachineLearning/numpy/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandas Intro"
+              "title": "Introduction"
             }
           }
         ]
@@ -181,10 +181,12 @@
   },
   "active": "b1d3d5f818e70154",
   "lastOpenFiles": [
+    "100 Theoretical&Courses/classes/MachineLearning/Pandas/Pandas Intro.md",
+    "100 Theoretical&Courses/classes/MachineLearning/numpy/Introduction.md",
+    "100 Theoretical&Courses/classes/MachineLearning/numpy",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Preprocessing.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Frame-Works.md",
     "100 Theoretical&Courses/classes/MachineLearning/Concepts/Evaluation Metrics.md",
-    "100 Theoretical&Courses/classes/MachineLearning/Pandas/Pandas Intro.md",
     "200 Programming/Python/Conditional statement.md",
     "100 Theoretical&Courses/classes/MachineLearning/Pandas",
     "200 Programming/Python/Loops.md",
@@ -211,7 +213,6 @@
     "500 Work-Related/Diagopreutic/Pellet Detection Logic.md",
     "500 Work-Related/Diagopreutic/Config Logic.md",
     "Untitled 3.base",
-    "Untitled 2.base",
     "100 Theoretical&Courses/classes/Backend/Servlet.md",
     "500 Work-Related/Samakalan/Task/Tom cat setup.md",
     "500 Work-Related/Samakalan/Task/Project-Setup.md",
@@ -225,7 +226,6 @@
     "400 Project-Related/Projects-Notes/TB Project/Coding terms to understand.md",
     "400 Project-Related/Projects-Notes/Emphysema-Project/Emphysema.md",
     "400 Project-Related/Projects-Notes/Emphysema-Project/Data Exploration.md",
-    "400 Project-Related/Projects-Notes/R  Project/Hotel Bookings Project.md",
-    "100 Theoretical/classes/Projects-Notes/TB Project/Project Work Flow Reference.md"
+    "400 Project-Related/Projects-Notes/R  Project/Hotel Bookings Project.md"
   ]
 }
