@@ -18,4 +18,13 @@ print(mylist[-1]) # Output: cherry - last element (negative index)
 ```
 
 
+## append
+The append() method **adds a single element to the end** of a list. It modifies the original list by placing the new item after the last current element
+
+```python
+fruits = ['apple', 'banana']
+fruits.append('cherry')
+print(fruits)  # Output: ['apple', 'banana', 'cherry']
+```
+
 
