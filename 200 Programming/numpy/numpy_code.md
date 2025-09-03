@@ -37,7 +37,36 @@ arr_2d = np.array([
 
 ### To fill all the values with zero 
 ```python
-
+s = (2,2)
+np.zeros(s)
 ```
+
+### To fill all the values with a certain object 
+```python 
+np.full(shape = (3,5), fill_value = 'cat')
+
+#OUTPUT
+array([['cat', 'cat', 'cat', 'cat', 'cat'],
+       ['cat', 'cat', 'cat', 'cat', 'cat'],
+       ['cat', 'cat', 'cat', 'cat', 'cat']], dtype='<U3')
+```
+
+### To fill the values to  a certain range 
+```python
+np.arange(start = 1 , stop = 5 ,step = 1)
+
+#OUTPUT
+array([1, 2, 3, 4])
+```
+
+### To fill it with random numbers 
+```python
+np.random.randint(low =1 , high = 7 , size = (2,3))
+
+#OUTPUT
+array([[5, 3, 2],
+       [1, 6, 4]])
+```
+
 
 
