@@ -12,4 +12,11 @@ arrays are the primary use for numpy for homogeneous calculations , they can  be
 x = [ 1,2,3 ]
 ```
 
-Taking this example of 3 elements and there 
+Taking this example of 3 elements and the difference between these 3 elements is 32 bit 
+from 1 ----> 2 (32 bits )
+- If i need to access the element at 3 it knows and jumps exactly 64 bits as each number is 32 bits 
+
+
+### Pointers : 
+- In NumPy, a pointer can be simply defined as a reference to the memory location where the array data is stored. This allows different variables to share the same data without copying, enabling efficient memory usage and fast operations.
+
