@@ -20,3 +20,29 @@ from 1 ----> 2 (32 bits )
 ### Pointers : 
 - In NumPy, a pointer can be simply defined as a reference to the memory location where the array data is stored. This allows different variables to share the same data without copying, enabling efficient memory usage and fast operations.
 
+
+
+## Note
+**1. Every element in the array must be of the same type and size.**
+**2. If an array's elements are also arrays, those inner arrays must have the same type and number of elements as each other.**
+
+- Good Example :
+
+|  4 | 10 |  8 | -3 |
+|----|----|----|----|
+| 20 | 12 |  8 |  5 |
+|  8 |  1 | 22 | 10 |
+|  7 |  2 |  2 |  9 |
+|  8 |  5 | 21 |  1 |
+
+- Bad Example 
+
+|  4 | 10 |  8 |    |
+|----|----|----|----|
+| 20 | 12 |  8 |  5 |
+|  8 |  1 |    |    |
+|  7 |  2 |  2 |  9 |
+|  8 |    |    |    |
+
+
+
