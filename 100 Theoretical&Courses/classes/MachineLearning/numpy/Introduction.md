@@ -60,5 +60,36 @@ foo = np.array([
 ])
 ```
 
+output:
+```python
+#dtype('float64')
+[[1. 2. 3. 4. ] 
+[1.2 2.4 5.6 9.9]] 
+```
+
+- ### String
+	- If any element in a 2D NumPy array is a string, **all elements are converted to strings**, because NumPy enforces one data type for the entire array
+
+Example :
+
+```python
+arr = np.array([
+    [1, 2, 3],           # integers
+    ["a", "b", "c"]      # strings
+])
+
+print(arr)
+print(arr.dtype)
+```
+
+output:
+```python
+[['1' '2' '3']
+ ['a' 'b' 'c']]
+<U1
+```
+
+
+
 
 
