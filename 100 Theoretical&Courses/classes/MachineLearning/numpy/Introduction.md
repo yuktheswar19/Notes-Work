@@ -46,3 +46,19 @@ from 1 ----> 2 (32 bits )
 
 
 
+## Floats & strings 
+
+- ### Float
+	- In a 2D NumPy array, if any row contains a float, **all values in the array become floats** because NumPy enforces a common data type for efficiency.
+
+Example :
+
+```python
+foo = np.array([
+	[1,2,3,4],
+	[1.2,2.4,5.6,9.9]
+])
+```
+
+
+
