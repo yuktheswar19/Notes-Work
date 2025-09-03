@@ -91,5 +91,17 @@ output:
 
 
 
+### Indexing 
+
+Indexing in NumPy is a way to access individual elements or specific parts of an array by their position. It works by using index numbers inside square brackets `[]`. The index numbers start at 0, so the first element is at position 0.
+
+- In indexing of elements , taking an example of 1D array , the numbering starts from 0 to the end of element number 
+
+Example :
+
+```python
+			   (1)  (2)  (3) (4) (5)
+arr = np.array([10 , 20, 30, 40, 50])
+```
 
 
