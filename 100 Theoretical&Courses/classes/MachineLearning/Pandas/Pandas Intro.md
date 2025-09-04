@@ -22,9 +22,11 @@ For example, **`df.loc['row_label', 'column_label']`** accesses the cell at the 
 
 Use `.iloc` when you want to access data by its position in the Data Frame rather than its label.
 
-## Importance of `[[]]`
+## Importance of `[[]]`     [[numpy_code]]
 
 Using double square brackets `[[ ]]` in pandas is necessary when selecting multiple columns because it passes a **list** of column names as a single argument to pandas. This ensures the result is a DataFrame (2-dimensional), preserving the tabular structure. In contrast, single brackets with one column name return a Series (1-dimensional).
+
+- Using single brackets with one column returns a 1‑D **Series**, while using double brackets with multiple column names passes a list and returns a 2‑D **DataFrame**, keeping the table structure.
 
 
 ## Regular Expressions 
