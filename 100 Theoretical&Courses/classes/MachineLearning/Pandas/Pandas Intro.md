@@ -49,5 +49,5 @@ if match:
 
 
 
-
+## Important Note : In pandas, **square brackets `[ ]`** are used for indexing, selecting columns, and slicing data, while **parentheses `( )`** are used to call functions or methods, passing any arguments inside them.
 
