@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Theoretical&Courses/classes/MachineLearning/Pandas/Pandas Intro.md",
+                "file": "500 Work-Related/Samakalan/Topics/Jakarta EE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandas Intro"
+              "title": "Jakarta EE"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.00043487548828
+    "width": 236.00043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "32415523f0b1e640",
@@ -175,12 +176,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b1d3d5f818e70154",
   "lastOpenFiles": [
     "100 Theoretical&Courses/classes/MachineLearning/Pandas/Pandas Intro.md",
+    "500 Work-Related/Samakalan/Topics/Jakarta EE.md",
+    "500 Work-Related/Samakalan/Topics",
     "200 Programming/numpy/numpy_code.md",
     "100 Theoretical&Courses/classes/MachineLearning/numpy/Introduction.md",
     "200 Programming/Python/Lists.md",
@@ -210,7 +214,6 @@
     "200 Programming/Python/1.1-Variables.ipynb",
     "200 Programming/Python",
     "100 Theoretical&Courses/classes/DataCourse/BigO-cheat-sheet+(1).pdf",
-    "100 Theoretical&Courses/classes/DataCourse/cheatsheet.pdf",
     "100 Theoretical&Courses/classes/DataCourse/Big-O Notation.md",
     "200 Programming/ml-code/Classes/Regression-Code-Snippets.md",
     "200 Programming/ml-code/Classes/Preprocessing-Tools.md",
@@ -224,7 +227,6 @@
     "100 Theoretical&Courses/classes/New.md",
     "300 Courses/Classes/MachineLearning/Concepts/attachments/image_1748597539612_0.png",
     "300 Courses/Classes/MachineLearning/Concepts/attachments/image_1748596871327_0.png",
-    "300 Courses/Classes/DataCourse/BigO/Untitled.md",
-    "400 Project-Related/Projects-Notes/TB Project/Project Work Flow Reference.md"
+    "300 Courses/Classes/DataCourse/BigO/Untitled.md"
   ]
 }
