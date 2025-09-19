@@ -3,7 +3,7 @@
 
 ---
 
-## **What is Data Preprocessing?**
+## **What is Data Pre-processing?**
 
 - Crucial initial step for machine learning model training
 - Improves model accuracy by cleaning and structuring raw data
@@ -85,3 +85,14 @@
 - **Stratified Split**: Maintains class proportions  
   (Critical for imbalanced classification)
 - *Always perform* before training to prevent overfitting
+
+---
+
+### **Preparing Data for Machine Learning**
+
+Data preparation is oftentimes the most time-consuming step of the modeling process. It is also one of the most important with model accuracy often contingent on the quality of data inserted. To this end, we'll be applying the following transformations on this data, not in this particular order:
+
+- **Feature Engineering:** Creating new features (columns) out of our raw data using domain knowledge
+- **Imputation:** Inserting values where they might be missing to have a complete dataset
+- **Encoding Categorical Variables:** Transforming categorical variables into some numerical variation
+- **Scaling:** Applying a scaler that transforms all of our data on the same numerical scale
