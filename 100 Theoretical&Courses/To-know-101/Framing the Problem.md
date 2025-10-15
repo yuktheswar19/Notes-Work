@@ -25,3 +25,34 @@
 - **Create a workspace (with enough storage space).** 
 - **Get the data**.
 
+
+
+
+
+
+
+## Ways to identify the problem and solve it 
+
+- Step 1
+	- Identify the problem 
+	- Who are the key stake holders and how will it help them 
+	- Does it align with business priorities and strategy
+
+- Step 2 - ( Asking certain questions ) 
+	- What and how exactly the outcome looks like 
+	- what specific things will help me quantify the success 
+	- What kind of insights and data do i need to capture and track the key metrics
+
+- Step 3 - ( Collect and preparing the data )
+	- Where can i find the data
+	- are there data quality issues 
+	- will i need to transform the data to support the analysis 
+
+- Step 4 - ( Analyse and explore the data )
+	- Which views of the data can help support my analysis 
+	- What types of patterns and trends are emerging 
+	- Are there actionable insights that could help drive success outcomes 
+
+- Step 5 - ( Communicate Findings )
+	- How can i craft narrative to clearly summarise the analysis 
+	- What are the most effective ways to visually communicate 
